@@ -1,0 +1,49 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        MinHeight="450" MinWidth="800">
+    <DockPanel>
+        <Label DockPanel.Dock="Top" Background="#FF00AEFF" Height="5"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="0.5*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Grid.Column="0" Content="Value:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="0,0,10,0" FontSize="15"/>
+            <Label Grid.Row="1" Grid.Column="2" Content="Value:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="0,0,10,0" FontSize="15"/>
+            <TextBox x:Name="TxtBox1" Grid.Row="1" Grid.Column="1" VerticalContentAlignment="Center" FontSize="15"/>
+            <TextBox x:Name="TxtBox2" Grid.Row="1" Grid.Column="3" VerticalContentAlignment="Center" FontSize="15"/>
+            <Button Grid.Row="3" Grid.Column="1" Content="Add Value" Width="120" VerticalContentAlignment="Center" FontSize="15" Click="Button_Click"/>
+            <Button Grid.Row="3" Grid.Column="3" Content="Add Value" Width="120" VerticalContentAlignment="Center" FontSize="15" Click="Button_Click_1"/>
+            <Button Grid.Row="5" Grid.Column="2" Content=">" Width="120" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Click="Button_Click_2"/>
+            <Button Grid.Row="7" Grid.Column="2" Content=">>" Width="120" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Click="Button_Click_3"/>
+            <Button Grid.Row="9" Grid.Column="2" Content="&lt;" Width="120" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Click="Button_Click_4"/>
+            <Button Grid.Row="11" Grid.Column="2" Content="&lt;&lt;" Width="120" HorizontalAlignment="Left" VerticalContentAlignment="Center" FontSize="20" Click="Button_Click_5"/>
+            <ListBox x:Name="LstBox1" Grid.Row="5" Grid.Column="1" Grid.RowSpan="7" Width="220" HorizontalAlignment="Left"/>
+            <ListBox x:Name="LstBox2" Grid.Row="5" Grid.Column="3" Grid.RowSpan="7" Width="220" HorizontalAlignment="Left"/>
+        </Grid>
+    </DockPanel>
+</Window>

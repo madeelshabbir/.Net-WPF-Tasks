@@ -1,0 +1,38 @@
+C:\Users\Adeel\source\repos\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\Users\Adeel\source\repos\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\Users\Adeel\source\repos\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\Users\Adeel\source\repos\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\Users\Adeel\source\repos\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\Users\Adeel\source\repos\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3_MarkupCompile.cache
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3_MarkupCompile.lref
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.g.resources
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\Adeel\source\repos\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csprojAssemblyReference.cache
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\App.g.cs
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3_MarkupCompile.cache
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3_MarkupCompile.lref
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.g.resources
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+D:\IMP Data\Semester 7\Enterprise Application Development\Homework#2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
